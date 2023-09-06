@@ -1,4 +1,4 @@
-# UNSD
+# LifeExpectancyGapAnalysis
 Visualizing Disparities in Life Expectancy
 
 Life expectancy at birth is a metric that gauges the anticipated average lifespan of an individual, considering factors such as gender, birth year, and country of origin.
